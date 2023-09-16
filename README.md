@@ -1,4 +1,4 @@
-# NLP with Transformers트랜스포머를 활용한 자연어 처리
+# NLP with Transformers
 
 The implementation is from the book (https://tensorflow.blog/transformer-nlp/)
 
